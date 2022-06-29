@@ -12,7 +12,7 @@ Implemented vector class in mql4 language with the same functionalities as a c++
               4) sort
               5) lower_bound
               6) upper_bound
-              7) erase (with an index).
+              7) erase (using index)
        
 Constructors which accept:
 
