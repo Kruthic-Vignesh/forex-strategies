@@ -5,13 +5,13 @@ Strategies for Foreign Exchange trading in MQL4, used in Global Prime trading pl
 Implemented a vector in mql4 language with the same functionalities as a c++ vector.
 Implemented functions:
 
-       push_back
-       pop_back
-       back
-       sort
-       lower_bound
-       upper_bound
-       erase (with an index).
+       i) push_back
+       ii) pop_back
+       iii) back
+       iv) sort
+       v) lower_bound
+       vi) upper_bound
+       vii) erase (with an index).
        
 Constructors which accept:
 
