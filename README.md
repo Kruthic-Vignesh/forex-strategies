@@ -2,8 +2,8 @@
 Strategies for Foreign Exchange trading in MQL4, used in Global Prime trading platform.
 
 # vector.mqh
-    Implemented a vector in mql4 language with the same functionalities as a c++ vector.
-    Implemented functions:
+Implemented a vector in mql4 language with the same functionalities as a c++ vector.
+Implemented functions:
 
        1) push_back
        2) pop_back
@@ -13,7 +13,7 @@ Strategies for Foreign Exchange trading in MQL4, used in Global Prime trading pl
        6) upper_bound
        7) erase (with an index).
        
-   Constructors which accept:
+Constructors which accept:
 
        a) no arguments
        b) only size
