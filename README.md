@@ -6,7 +6,7 @@ Implemented a vector in mql4 language with the same functionalities as a c++ vec
   Implemented functions:
     push_back, pop_back, back, sort, lower_bound, upper_bound, erase (with an index).
     Constructors which accept:
-      a) no arguments
-      b) only size
-      c) size and default value
-      d) another vector
+      -a) no arguments
+      -b) only size
+      -c) size and default value
+      -d) another vector
